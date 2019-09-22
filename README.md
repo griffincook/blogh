@@ -1,3 +1,3 @@
 # blogh
-A PHP Blog that I created in grade 12. 
-I know the optimization and organization of this project are terrible. I haven't worked on it since high school.
+A PHP Blog that I created in grade 2017.
+I wrote all of the PHP files, and created the database. The HTML and CSS comes from a bootstrap template.
