@@ -40,7 +40,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blogh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogh" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -76,12 +86,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564848356450</updated>
       <workItem from="1564848357735" duration="115000" />
-      <workItem from="1564848486026" duration="277000" />
+      <workItem from="1564848486026" duration="911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="392000" />
+    <option name="totallyTimeSpent" value="1026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
